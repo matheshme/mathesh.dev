@@ -387,7 +387,7 @@
         .left-details {
             display: grid;
             grid-template-rows: 1fr;
-            transition: grid-template-rows 0.35s ease, opacity 0.35s ease, margin-top 0.3s ease;
+            transition: grid-template-rows 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s ease, margin-top 0.2s ease;
             overflow: hidden;
             margin-top: 5px;
         }
@@ -1022,6 +1022,10 @@
 
             .card-divider {
                 display: none;
+            }
+
+            .left-details {
+                transition: opacity 0.15s ease, margin-top 0.15s ease;
             }
 
             .card-left {
