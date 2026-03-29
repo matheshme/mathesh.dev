@@ -1,0 +1,4 @@
+title,description,url
+supercharge your containers without burning your laptop,exploring docker offload for running builds on cloud infra,https://medium.com/@mathesh-me/docker-offload-supercharge-your-containers-without-burning-your-laptop-971182444342
+optimizing eks cluster costs using kubecost,setting up cost monitoring and optimization for eks clusters,https://medium.com/towards-aws/optimizing-eks-clusters-cost-using-kubecost-7959a4e76106
+best tool for provisioning and managing eks,trying out eksdemo for simplified eks cluster management,https://towardsaws.com/best-tool-for-provisioning-and-managing-eks-why-eksdemo-is-the-top-choice-for-eks-cluster-4a613bb5ffde
